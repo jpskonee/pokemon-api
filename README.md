@@ -56,6 +56,7 @@ From your web browser or any API querying tool (e.g Postman):
 Go to: http://localhost:5050/api/pokemon/charmeleon.
 
 IF you used a different port in your .env, Please update accordingly. 
+
 i.e http://localhost:[YOUR_PORT]/api/pokemon/charmeleon.
 
 You can change the name in the params to get the variation tree of any desired pokemon.
